@@ -98,7 +98,7 @@
 }
 
 .containerproje .slide-container:nth-child(1) .slide{
-    background: url(./imagens/imagens/medium-shot-man-wearing-vr-glasses.jpg) no-repeat bottom center scroll;
+    background: url(medium-shot-man-wearing-vr-glasses.jpg) no-repeat bottom center scroll;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
@@ -109,7 +109,7 @@
 }
 
 .containerproje .slide-container:nth-child(2) .slide{
-      background: url(./imagens/imagens/woman-in-vr-glasses-float-in-neon-space-with-cables-attached-to-her-metaverse-avatar-concept.jpg) no-repeat bottom center scroll;
+      background: url(woman-in-vr-glasses-float-in-neon-space-with-cables-attached-to-her-metaverse-avatar-concept.jpg) no-repeat bottom center scroll;
       background-size: 100% 100%;
       background-repeat: no-repeat;
       width: 100vw;
@@ -121,7 +121,7 @@
 }
 
 .containerproje .slide-container:nth-child(3) .slide{
-    background: url(./imagens/imagens/closeup-of-woman-in-vr-glasses-float-in-neon-space-with-cables-attached-to-her-metaverse-avatar-concept\ \(1\).jpg)no-repeat bottom center scroll;
+    background: url(closeup-of-woman-in-vr-glasses-float-in-neon-space-with-cables-attached-to-her-metaverse-avatar-concept\ \(1\).jpg)no-repeat bottom center scroll;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100vw;
